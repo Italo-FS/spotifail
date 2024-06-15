@@ -1,0 +1,24 @@
+66fb5b52e0cde137c16839d99d2b75f19498bbf3		branch 'page/home' of https://github.com/unifor-ads/spotifail
+71281f7b52f492f5e5efbba9eaa8f27ec3924046	not-for-merge	branch 'bugfix/colors' of https://github.com/unifor-ads/spotifail
+a5c45f08ba7abeef704ff20d6d79a1e12aeca731	not-for-merge	branch 'bugfix/icons' of https://github.com/unifor-ads/spotifail
+b56c49d58cb17afdec7e2bfb50ad98aeb3c63c32	not-for-merge	branch 'bugfix/theme' of https://github.com/unifor-ads/spotifail
+6ad079abfb05b21bab2fdc63a775ffcd0d44c72f	not-for-merge	branch 'components/cardmusic' of https://github.com/unifor-ads/spotifail
+3dc0602fef734c3b0fb15f010ac6ba38815cc03b	not-for-merge	branch 'config/config-files' of https://github.com/unifor-ads/spotifail
+31a0814606091134e3734a785c925a4cd14178a3	not-for-merge	branch 'config/initial-config' of https://github.com/unifor-ads/spotifail
+ccc77bab82a291fb26e6dacc45c0ec98f122f3f9	not-for-merge	branch 'developer' of https://github.com/unifor-ads/spotifail
+ddc80d00d6a99bbfe38680e879183816f486e36c	not-for-merge	branch 'feature/app-structure' of https://github.com/unifor-ads/spotifail
+ab4580448d154ec2d00d4fc186aab2c0553f9288	not-for-merge	branch 'feature/audio-player' of https://github.com/unifor-ads/spotifail
+8ddfe0145679a9c52a41456406e3c4d05db6019b	not-for-merge	branch 'feature/icon-component' of https://github.com/unifor-ads/spotifail
+c085e2aa08e6ca1294306084d8bf6a0059718bae	not-for-merge	branch 'feature/logo' of https://github.com/unifor-ads/spotifail
+592d8ae96c7b65c9461840f3b6863fa01faee922	not-for-merge	branch 'feature/music-card' of https://github.com/unifor-ads/spotifail
+7b4ecfe0d43fa8b681c731a08a4beacc209e2971	not-for-merge	branch 'feature/navbar' of https://github.com/unifor-ads/spotifail
+c6a089c30e72cfb06bafa069e031eac9720dd033	not-for-merge	branch 'feature/play-music-button' of https://github.com/unifor-ads/spotifail
+e810dc96d805da9df147ef9d254236d9b0772f6e	not-for-merge	branch 'feature/section' of https://github.com/unifor-ads/spotifail
+565869ad190c45b1a98fe5d9d7991571cfbae8d4	not-for-merge	branch 'main' of https://github.com/unifor-ads/spotifail
+d17a5c71229f76d7ba16d13ed792c4915dcb8e87	not-for-merge	branch 'mock-data' of https://github.com/unifor-ads/spotifail
+2db1d4ee15aa066ef70180acb0f4f4d88f78544d	not-for-merge	branch 'page/faq' of https://github.com/unifor-ads/spotifail
+9108844b8eb692ef36d9b86c13455c32b9e593a6	not-for-merge	branch 'page/layout' of https://github.com/unifor-ads/spotifail
+60046803910f128c1ff708d909fdf23987069d2a	not-for-merge	branch 'page/player' of https://github.com/unifor-ads/spotifail
+88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08	not-for-merge	branch 'page/sign-up' of https://github.com/unifor-ads/spotifail
+84ab1015b22c31a52246c6c103358e31615fea89	not-for-merge	branch 'page/test' of https://github.com/unifor-ads/spotifail
+6f5e9c1d68b4fdd4da2b2f697e82ad25c648f679	not-for-merge	branch 'page/user' of https://github.com/unifor-ads/spotifail

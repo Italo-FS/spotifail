@@ -1,0 +1,73 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/unifor-ads/spotifail.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "page/home"]
+	remote = origin
+	merge = refs/heads/page/home
+	github-pr-owner-number = "unifor-ads#spotifail#58"
+[branch "developer"]
+	remote = origin
+	merge = refs/heads/developer
+	github-pr-owner-number = "unifor-ads#spotifail#45"
+	github-pr-base-branch = "unifor-ads#spotifail#page/sign-up"
+[branch "feature/audio-player"]
+	remote = origin
+	merge = refs/heads/feature/audio-player
+	github-pr-owner-number = "unifor-ads#spotifail#41"
+	github-pr-base-branch = "unifor-ads#spotifail#developer"
+[branch "page/player"]
+	remote = origin
+	merge = refs/heads/page/player
+	github-pr-owner-number = "unifor-ads#spotifail#17"
+[branch "mock-data"]
+	remote = origin
+	merge = refs/heads/mock-data
+	github-pr-owner-number = "unifor-ads#spotifail#50"
+[branch "feature/navbar"]
+	remote = origin
+	merge = refs/heads/feature/navbar
+	github-pr-owner-number = "unifor-ads#spotifail#47"
+[branch "bugfix/icons"]
+	remote = origin
+	merge = refs/heads/bugfix/icons
+[branch "bugfix/colors"]
+	remote = origin
+	merge = refs/heads/bugfix/colors
+[branch "page/faq"]
+	remote = origin
+	merge = refs/heads/page/faq
+	github-pr-owner-number = "unifor-ads#spotifail#31"
+[branch "page/test"]
+	github-pr-base-branch = "unifor-ads#spotifail#page/faq"
+	remote = origin
+	merge = refs/heads/page/test
+	github-pr-owner-number = "unifor-ads#spotifail#30"
+[branch "bugfix/theme"]
+	github-pr-base-branch = "unifor-ads#spotifail#developer"
+	remote = origin
+	merge = refs/heads/bugfix/theme
+	github-pr-owner-number = "unifor-ads#spotifail#33"
+[branch "page/sign-up"]
+	remote = origin
+	merge = refs/heads/page/sign-up
+	github-pr-owner-number = "unifor-ads#spotifail#53"
+	github-pr-base-branch = "unifor-ads#spotifail#developer"
+[branch "components/cardmusic"]
+	remote = origin
+	github-pr-owner-number = "unifor-ads#spotifail#44"
+	merge = refs/heads/components/cardmusic
+[branch "page/user"]
+	github-pr-base-branch = "unifor-ads#spotifail#page/sign-up"
+	remote = origin
+	merge = refs/heads/page/user
+	github-pr-owner-number = "unifor-ads#spotifail#56"

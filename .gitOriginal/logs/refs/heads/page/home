@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 96d15e67435d1386db59af6cd13f2d2fc8d58874 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695214140 -0300	branch: Created from origin/page/home
+96d15e67435d1386db59af6cd13f2d2fc8d58874 dfc7814b579a028a7d779afe58db6c55f1ab3414 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695214662 -0300	commit (merge): Merge branch 'main' of https://github.com/unifor-ads/spotifail into page/home
+dfc7814b579a028a7d779afe58db6c55f1ab3414 c752c2fe5016ce3d09938e1bf9a90eb1684a289a Italo Fontenele <italo.fontenele.silva@gmail.com> 1695215246 -0300	pull origin main: Merge made by the 'ort' strategy.
+c752c2fe5016ce3d09938e1bf9a90eb1684a289a 54147bf65f9a3bc8b23b78d183eacd3d8a67ffe1 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695215756 -0300	commit: update of Home page and corretion of @components path
+54147bf65f9a3bc8b23b78d183eacd3d8a67ffe1 38c21f247666de1ba04e83b2cf73d509a9be30bc Italo Fontenele <italo.fontenele.silva@gmail.com> 1695215931 -0300	commit: update of Home page file name
+38c21f247666de1ba04e83b2cf73d509a9be30bc 24a6c84445068bdae4fedc7ce84a34df7abedd27 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218237 -0300	pull origin main: Fast-forward
+24a6c84445068bdae4fedc7ce84a34df7abedd27 89255e459d706a169e273d18c2389f95b1db0167 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218351 -0300	pull origin main: Fast-forward
+89255e459d706a169e273d18c2389f95b1db0167 e1c1913f2381a6a57fd487fe7afda8cbdafa8313 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218669 -0300	commit: update of home page
+e1c1913f2381a6a57fd487fe7afda8cbdafa8313 abf84f5a6198324142817366001968cb5ae5ff29 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696256851 -0300	pull origin main: Fast-forward
+abf84f5a6198324142817366001968cb5ae5ff29 f770c8026f8d42e7189bed1704f230e7f098a752 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696276430 -0300	commit: home page reconstructed
+f770c8026f8d42e7189bed1704f230e7f098a752 14909dea64d6266704dd60d2fe1be3da7da09bda Italo Fontenele <italo.fontenele.silva@gmail.com> 1696278640 -0300	commit: some fix
+14909dea64d6266704dd60d2fe1be3da7da09bda 05d2cbe2ad08360883646137e522799393688ed2 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701801171 -0300	pull origin main: Fast-forward
+05d2cbe2ad08360883646137e522799393688ed2 0c0c01c737649d8cb9394bd0a54edc612fe85953 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701805057 -0300	commit: responsividade na pagina home
+0c0c01c737649d8cb9394bd0a54edc612fe85953 66fb5b52e0cde137c16839d99d2b75f19498bbf3 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701862914 -0300	commit: go horse

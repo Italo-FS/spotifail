@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+c0ee1d559e5880a5fab828d12c75daa9de468d4a refs/remotes/origin/component/music-card2
+3dc0602fef734c3b0fb15f010ac6ba38815cc03b refs/remotes/origin/config/config-files
+31a0814606091134e3734a785c925a4cd14178a3 refs/remotes/origin/config/initial-config
+192beb39e97561b21351ea13b8b740728cafc777 refs/remotes/origin/developer
+ddc80d00d6a99bbfe38680e879183816f486e36c refs/remotes/origin/feature/app-structure
+8ddfe0145679a9c52a41456406e3c4d05db6019b refs/remotes/origin/feature/icon-component
+c085e2aa08e6ca1294306084d8bf6a0059718bae refs/remotes/origin/feature/logo
+592d8ae96c7b65c9461840f3b6863fa01faee922 refs/remotes/origin/feature/music-card
+e810dc96d805da9df147ef9d254236d9b0772f6e refs/remotes/origin/feature/section
+4463337d463e543c9e0bcc65d74cb71560720319 refs/remotes/origin/main
+96d15e67435d1386db59af6cd13f2d2fc8d58874 refs/remotes/origin/page/home
+9108844b8eb692ef36d9b86c13455c32b9e593a6 refs/remotes/origin/page/layout

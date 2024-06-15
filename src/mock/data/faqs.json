@@ -1,0 +1,26 @@
+[
+  {
+    "question": "O que é o Spotifail?",
+    "answer": "O Spotifail é a versão \"fora de sintonia\" do Spotify, um projeto de faculdade que nasceu da nossa habilidade questionável de criar algo parecido com o original. É como o Spotify, mas com um toque de humor!"
+  },
+  {
+    "question": "Qual é o objetivo do Spotifail?",
+    "answer": "O objetivo do Spotifail é proporcionar uma experiência única e divertida para os usuários, enquanto exploramos o maravilhoso mundo da programação web. Queremos mostrar que até mesmo os projetos malucos e engraçados podem ensinar muito sobre desenvolvimento de plataformas web."
+  },
+  {
+    "question": "Como o Spotifail se diferencia do Spotify?",
+    "answer": "Bem, o Spotifail não possui aquela vasta biblioteca de músicas ou aquela interface polida do Spotify. Em vez disso, temos uma seleção limitada de músicas e uma interface que só um programador apaixonado por CSS poderia amar. Você pode chamar de charme imperfeito!"
+  },
+  {
+    "question": "O Spotifail tem recursos exclusivos?",
+    "answer": "Claro! Nossos recursos exclusivos incluem a \"Recomendação Aleatória\" (porque quem precisa de algoritmos sofisticados?) e a \"Playlist do Caos\" (onde as músicas são tocadas na ordem que acharmos mais engraçada naquele dia)."
+  },
+  {
+    "question": "Como faço para usar o Spotifail?",
+    "answer": "Basta se inscrever com um nome de usuário estranho e uma senha que você provavelmente esquecerá. Depois, explore nossa coleção limitada de músicas e divirta-se com os bugs ocasionais e as falhas inesperadas. Não se esqueça de dar uma boa risada no processo!"
+  },
+  {
+    "question": "Vocês planejam competir com o Spotify?",
+    "answer": "Não, definitivamente não. O Spotifail é um projeto de aprendizado e diversão, e não uma ameaça ao Spotify. Deixe-nos apenas ser sua fonte de entretenimento peculiar enquanto você ouve suas músicas favoritas em outro lugar."
+  }
+]

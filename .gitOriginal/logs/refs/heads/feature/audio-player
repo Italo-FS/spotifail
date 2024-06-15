@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 6912f3c92b622cbdb7ed61080e701703d3ad2b94 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695216134 -0300	branch: Created from HEAD
+6912f3c92b622cbdb7ed61080e701703d3ad2b94 a84d2c5fee7c9b79532b26400ffe5e60810222d9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695216803 -0300	commit: addiction of audio-player feature
+a84d2c5fee7c9b79532b26400ffe5e60810222d9 24a6c84445068bdae4fedc7ce84a34df7abedd27 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217931 -0300	pull origin main: Fast-forward
+24a6c84445068bdae4fedc7ce84a34df7abedd27 acde0ee5dffbe3fe0fa721d70ad56652b6453132 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218004 -0300	commit: update of volume control in audio-player
+acde0ee5dffbe3fe0fa721d70ad56652b6453132 171cd663c036893048e03549e8ea8ff4d7983066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695311614 -0300	pull origin main: Fast-forward
+171cd663c036893048e03549e8ea8ff4d7983066 68d993d024cb20334bcb469145aaedc3faa136ea Italo Fontenele <italo.fontenele.silva@gmail.com> 1695330457 -0300	commit: correçã0 na chamada do hook de tema da página
+68d993d024cb20334bcb469145aaedc3faa136ea afbed5bdedf3f04f7202b649f84055b882d20d59 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695334092 -0300	commit: correção do erro que pausava a música após a troca de faixa.
+afbed5bdedf3f04f7202b649f84055b882d20d59 ac1816322534769521c3d8b5603b9665168b8b4e Italo Fontenele <italo.fontenele.silva@gmail.com> 1695335293 -0300	commit: remoção do controle de audio padrão do html.
+ac1816322534769521c3d8b5603b9665168b8b4e 8fcc8a6840800dbfa9f7a4f40468d053cc80503b Italo Fontenele <italo.fontenele.silva@gmail.com> 1695411190 -0300	commit: update song list and mock data.
+8fcc8a6840800dbfa9f7a4f40468d053cc80503b 5c15225c539992aa430db2f13a3e1f7ea79f8b7c Italo Fontenele <italo.fontenele.silva@gmail.com> 1695412008 -0300	commit: Update track info to show album year and name.
+5c15225c539992aa430db2f13a3e1f7ea79f8b7c 355fe0b4348584feaae0e84589a40b96fc06b7d5 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695413513 -0300	pull origin main: Merge made by the 'ort' strategy.
+355fe0b4348584feaae0e84589a40b96fc06b7d5 f33fc519cce4903ebf266e182fddb6ae4a269d6d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695414219 -0300	commit: update audio player themes
+f33fc519cce4903ebf266e182fddb6ae4a269d6d 8782b725b758d037fc7c5bc291e56757da05b6cb Italo Fontenele <italo.fontenele.silva@gmail.com> 1695417728 -0300	pull origin main: Fast-forward
+8782b725b758d037fc7c5bc291e56757da05b6cb ac43b4a2269785ecbe7d8e8a4c783362b127ed59 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695648526 -0300	pull origin main: Fast-forward
+ac43b4a2269785ecbe7d8e8a4c783362b127ed59 2c6c6d5038182321e4ae78f2d577126365c569f5 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695657731 -0300	commit: now player plage can receive a music Id as argument and generate a playlist with similar songs.
+2c6c6d5038182321e4ae78f2d577126365c569f5 6568e745804eba94003930294dfd44758a79e5e8 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695657783 -0300	commit: adjusts on FAQ page
+6568e745804eba94003930294dfd44758a79e5e8 4e0a97dcc00a1ebfb33773e4a9b414e44a584a09 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695663284 -0300	commit: bug fix on audio-player component that displayed wrong track info.
+4e0a97dcc00a1ebfb33773e4a9b414e44a584a09 46d3745920af931e59008c569ea34c4305d4e642 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695736508 -0300	pull origin main: Fast-forward
+46d3745920af931e59008c569ea34c4305d4e642 c172ed676e709961fb3db3e88ab21f37b035493a Italo Fontenele <italo.fontenele.silva@gmail.com> 1695737519 -0300	commit: bugfix on test page view
+c172ed676e709961fb3db3e88ab21f37b035493a 0e83040e7c4e6c8311b5a522d9c70ea924e253d9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695746648 -0300	commit: some fix and corrections on player
+0e83040e7c4e6c8311b5a522d9c70ea924e253d9 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695746732 -0300	pull origin main: Fast-forward
+3e375b45b4002fba0e9294cee3931b8b62adb985 040fc8f7d84d9d6d2c9e150812b874ed3592b5ae Italo Fontenele <italo.fontenele.silva@gmail.com> 1695824737 -0300	commit: audio player is now an independent component
+040fc8f7d84d9d6d2c9e150812b874ed3592b5ae 67d0acc50e8a7275e23550108565e7f6ef057762 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695851078 -0300	commit: go horse
+67d0acc50e8a7275e23550108565e7f6ef057762 20877e502ed8ae7f13c76586dbf6ead6ec5a92a4 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695852715 -0300	commit: some fixes and componetizations
+20877e502ed8ae7f13c76586dbf6ead6ec5a92a4 d40e1de0553d2ecdcf461a0b190ec88f7c176d4d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695932768 -0300	commit: tips adictions and audio player buttons reworked
+d40e1de0553d2ecdcf461a0b190ec88f7c176d4d 4076c764b972f0dc43fb789547d6aecd2d34eec8 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695932980 -0300	commit: distance between audio player buttons reduced
+4076c764b972f0dc43fb789547d6aecd2d34eec8 5269e164066ddf6a0c7ccd4738675ef43d421af3 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695946483 -0300	commit: audio player button control toggle added
+5269e164066ddf6a0c7ccd4738675ef43d421af3 58a00ec7337fa989dfc10ac812fa141721815549 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696014958 -0300	pull origin main: Fast-forward
+58a00ec7337fa989dfc10ac812fa141721815549 eb6b1a78f87b8b942e429b24f592845d7e183e46 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696380419 -0300	pull origin main: Fast-forward
+eb6b1a78f87b8b942e429b24f592845d7e183e46 ab4580448d154ec2d00d4fc186aab2c0553f9288 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696380696 -0300	commit: music add

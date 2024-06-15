@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "K-DST",
+    "description": "K-DST",
+    "tracks": [1, 2, 4, 6, 7, 8, 10, 11, 12],
+    "thumbnail": "/images/playlists/001.jpg"
+  },
+  {
+    "id": 2,
+    "title": "K-Rose",
+    "description": "K-Rose",
+    "tracks": [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+    "thumbnail": "/images/playlists/002.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Awesome Mix Vol.1",
+    "description": "Awesome Mix Vol.1",
+    "tracks": [13, 14, 15, 16, 17, 18, 19, 20, 21],
+    "thumbnail": "/images/playlists/003.jpg"
+  }
+]

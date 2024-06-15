@@ -1,0 +1,201 @@
+0000000000000000000000000000000000000000 4463337d463e543c9e0bcc65d74cb71560720319 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695214086 -0300	clone: from https://github.com/unifor-ads/spotifail.git
+4463337d463e543c9e0bcc65d74cb71560720319 96d15e67435d1386db59af6cd13f2d2fc8d58874 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695214140 -0300	checkout: moving from main to page/home
+96d15e67435d1386db59af6cd13f2d2fc8d58874 dfc7814b579a028a7d779afe58db6c55f1ab3414 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695214662 -0300	commit (merge): Merge branch 'main' of https://github.com/unifor-ads/spotifail into page/home
+dfc7814b579a028a7d779afe58db6c55f1ab3414 c752c2fe5016ce3d09938e1bf9a90eb1684a289a Italo Fontenele <italo.fontenele.silva@gmail.com> 1695215246 -0300	pull origin main: Merge made by the 'ort' strategy.
+c752c2fe5016ce3d09938e1bf9a90eb1684a289a 54147bf65f9a3bc8b23b78d183eacd3d8a67ffe1 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695215756 -0300	commit: update of Home page and corretion of @components path
+54147bf65f9a3bc8b23b78d183eacd3d8a67ffe1 38c21f247666de1ba04e83b2cf73d509a9be30bc Italo Fontenele <italo.fontenele.silva@gmail.com> 1695215931 -0300	commit: update of Home page file name
+38c21f247666de1ba04e83b2cf73d509a9be30bc 192beb39e97561b21351ea13b8b740728cafc777 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695216058 -0300	checkout: moving from page/home to developer
+192beb39e97561b21351ea13b8b740728cafc777 6912f3c92b622cbdb7ed61080e701703d3ad2b94 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695216085 -0300	commit (merge): Merge branch 'main' of https://github.com/unifor-ads/spotifail into developer
+6912f3c92b622cbdb7ed61080e701703d3ad2b94 6912f3c92b622cbdb7ed61080e701703d3ad2b94 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695216134 -0300	checkout: moving from developer to feature/audio-player
+6912f3c92b622cbdb7ed61080e701703d3ad2b94 a84d2c5fee7c9b79532b26400ffe5e60810222d9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695216803 -0300	commit: addiction of audio-player feature
+a84d2c5fee7c9b79532b26400ffe5e60810222d9 a84d2c5fee7c9b79532b26400ffe5e60810222d9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695216880 -0300	checkout: moving from feature/audio-player to page/player
+a84d2c5fee7c9b79532b26400ffe5e60810222d9 60046803910f128c1ff708d909fdf23987069d2a Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217060 -0300	commit: addiction of player page.
+60046803910f128c1ff708d909fdf23987069d2a 6912f3c92b622cbdb7ed61080e701703d3ad2b94 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217123 -0300	checkout: moving from page/player to developer
+6912f3c92b622cbdb7ed61080e701703d3ad2b94 6912f3c92b622cbdb7ed61080e701703d3ad2b94 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217492 -0300	checkout: moving from developer to mock-data
+6912f3c92b622cbdb7ed61080e701703d3ad2b94 219f25f77f07c0eec25b2022ee5535a5344cfbe9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217513 -0300	commit: addition of mock data
+219f25f77f07c0eec25b2022ee5535a5344cfbe9 6912f3c92b622cbdb7ed61080e701703d3ad2b94 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217662 -0300	checkout: moving from mock-data to developer
+6912f3c92b622cbdb7ed61080e701703d3ad2b94 24a6c84445068bdae4fedc7ce84a34df7abedd27 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217828 -0300	pull origin main: Fast-forward
+24a6c84445068bdae4fedc7ce84a34df7abedd27 a84d2c5fee7c9b79532b26400ffe5e60810222d9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217918 -0300	checkout: moving from developer to feature/audio-player
+a84d2c5fee7c9b79532b26400ffe5e60810222d9 24a6c84445068bdae4fedc7ce84a34df7abedd27 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695217931 -0300	pull origin main: Fast-forward
+24a6c84445068bdae4fedc7ce84a34df7abedd27 acde0ee5dffbe3fe0fa721d70ad56652b6453132 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218004 -0300	commit: update of volume control in audio-player
+acde0ee5dffbe3fe0fa721d70ad56652b6453132 acde0ee5dffbe3fe0fa721d70ad56652b6453132 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218173 -0300	reset: moving to HEAD
+acde0ee5dffbe3fe0fa721d70ad56652b6453132 acde0ee5dffbe3fe0fa721d70ad56652b6453132 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218193 -0300	reset: moving to HEAD
+acde0ee5dffbe3fe0fa721d70ad56652b6453132 24a6c84445068bdae4fedc7ce84a34df7abedd27 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218204 -0300	checkout: moving from feature/audio-player to developer
+24a6c84445068bdae4fedc7ce84a34df7abedd27 38c21f247666de1ba04e83b2cf73d509a9be30bc Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218228 -0300	checkout: moving from developer to page/home
+38c21f247666de1ba04e83b2cf73d509a9be30bc 24a6c84445068bdae4fedc7ce84a34df7abedd27 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218237 -0300	pull origin main: Fast-forward
+24a6c84445068bdae4fedc7ce84a34df7abedd27 24a6c84445068bdae4fedc7ce84a34df7abedd27 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218266 -0300	checkout: moving from page/home to developer
+24a6c84445068bdae4fedc7ce84a34df7abedd27 89255e459d706a169e273d18c2389f95b1db0167 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218324 -0300	pull origin main: Fast-forward
+89255e459d706a169e273d18c2389f95b1db0167 24a6c84445068bdae4fedc7ce84a34df7abedd27 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218341 -0300	checkout: moving from developer to page/home
+24a6c84445068bdae4fedc7ce84a34df7abedd27 89255e459d706a169e273d18c2389f95b1db0167 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218351 -0300	pull origin main: Fast-forward
+89255e459d706a169e273d18c2389f95b1db0167 e1c1913f2381a6a57fd487fe7afda8cbdafa8313 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218669 -0300	commit: update of home page
+e1c1913f2381a6a57fd487fe7afda8cbdafa8313 e1c1913f2381a6a57fd487fe7afda8cbdafa8313 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695218740 -0300	checkout: moving from page/home to feature/navbar
+e1c1913f2381a6a57fd487fe7afda8cbdafa8313 4bb6a6cf22d5ce4031b4b55b5d066a8e3ccf2a8f Italo Fontenele <italo.fontenele.silva@gmail.com> 1695229265 -0300	pull origin main: Fast-forward
+4bb6a6cf22d5ce4031b4b55b5d066a8e3ccf2a8f 0b5b22b2280544cb3020453f2a724048ed502b1e Italo Fontenele <italo.fontenele.silva@gmail.com> 1695235744 -0300	commit: correção de bugs, navbar e página inicial
+0b5b22b2280544cb3020453f2a724048ed502b1e 89255e459d706a169e273d18c2389f95b1db0167 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695235817 -0300	checkout: moving from feature/navbar to developer
+89255e459d706a169e273d18c2389f95b1db0167 4bb6a6cf22d5ce4031b4b55b5d066a8e3ccf2a8f Italo Fontenele <italo.fontenele.silva@gmail.com> 1695235829 -0300	pull origin main: Fast-forward
+4bb6a6cf22d5ce4031b4b55b5d066a8e3ccf2a8f e432d4c90398e96fb181a8629bd60f867a6bf505 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695235868 -0300	pull origin main: Fast-forward
+e432d4c90398e96fb181a8629bd60f867a6bf505 0b5b22b2280544cb3020453f2a724048ed502b1e Italo Fontenele <italo.fontenele.silva@gmail.com> 1695236056 -0300	checkout: moving from developer to feature/navbar
+0b5b22b2280544cb3020453f2a724048ed502b1e e432d4c90398e96fb181a8629bd60f867a6bf505 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695239723 -0300	pull origin main: Fast-forward
+e432d4c90398e96fb181a8629bd60f867a6bf505 e432d4c90398e96fb181a8629bd60f867a6bf505 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695239745 -0300	checkout: moving from feature/navbar to developer
+e432d4c90398e96fb181a8629bd60f867a6bf505 e432d4c90398e96fb181a8629bd60f867a6bf505 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695239754 -0300	checkout: moving from developer to developer
+e432d4c90398e96fb181a8629bd60f867a6bf505 e432d4c90398e96fb181a8629bd60f867a6bf505 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695302781 -0300	checkout: moving from developer to bugfix/icons
+e432d4c90398e96fb181a8629bd60f867a6bf505 a5c45f08ba7abeef704ff20d6d79a1e12aeca731 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695303089 -0300	commit: correção do bug onde ícones não se comportavam como texto
+a5c45f08ba7abeef704ff20d6d79a1e12aeca731 e432d4c90398e96fb181a8629bd60f867a6bf505 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695304064 -0300	checkout: moving from bugfix/icons to developer
+e432d4c90398e96fb181a8629bd60f867a6bf505 e845522546ec206307ddd389bfdff2cc126a9df1 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695304079 -0300	pull origin main: Fast-forward
+e845522546ec206307ddd389bfdff2cc126a9df1 e845522546ec206307ddd389bfdff2cc126a9df1 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695307755 -0300	checkout: moving from developer to bugfix/colors
+e845522546ec206307ddd389bfdff2cc126a9df1 71281f7b52f492f5e5efbba9eaa8f27ec3924046 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695307791 -0300	commit: adição de cores ao tailwind
+71281f7b52f492f5e5efbba9eaa8f27ec3924046 71281f7b52f492f5e5efbba9eaa8f27ec3924046 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695308031 -0300	checkout: moving from bugfix/colors to page/login
+71281f7b52f492f5e5efbba9eaa8f27ec3924046 71281f7b52f492f5e5efbba9eaa8f27ec3924046 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695308049 -0300	checkout: moving from page/login to page/sign-up
+71281f7b52f492f5e5efbba9eaa8f27ec3924046 171cd663c036893048e03549e8ea8ff4d7983066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695308062 -0300	pull origin main: Fast-forward
+171cd663c036893048e03549e8ea8ff4d7983066 e845522546ec206307ddd389bfdff2cc126a9df1 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695308437 -0300	checkout: moving from page/sign-up to developer
+e845522546ec206307ddd389bfdff2cc126a9df1 171cd663c036893048e03549e8ea8ff4d7983066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695308449 -0300	pull origin main: Fast-forward
+171cd663c036893048e03549e8ea8ff4d7983066 acde0ee5dffbe3fe0fa721d70ad56652b6453132 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695311595 -0300	checkout: moving from developer to feature/audio-player
+acde0ee5dffbe3fe0fa721d70ad56652b6453132 171cd663c036893048e03549e8ea8ff4d7983066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695311614 -0300	pull origin main: Fast-forward
+171cd663c036893048e03549e8ea8ff4d7983066 68d993d024cb20334bcb469145aaedc3faa136ea Italo Fontenele <italo.fontenele.silva@gmail.com> 1695330457 -0300	commit: correçã0 na chamada do hook de tema da página
+68d993d024cb20334bcb469145aaedc3faa136ea afbed5bdedf3f04f7202b649f84055b882d20d59 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695334092 -0300	commit: correção do erro que pausava a música após a troca de faixa.
+afbed5bdedf3f04f7202b649f84055b882d20d59 ac1816322534769521c3d8b5603b9665168b8b4e Italo Fontenele <italo.fontenele.silva@gmail.com> 1695335293 -0300	commit: remoção do controle de audio padrão do html.
+ac1816322534769521c3d8b5603b9665168b8b4e e432d4c90398e96fb181a8629bd60f867a6bf505 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695335532 -0300	checkout: moving from feature/audio-player to feature/navbar
+e432d4c90398e96fb181a8629bd60f867a6bf505 4e85827463ccd911e1d2abac810d97b1973f1066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695335543 -0300	pull origin main: Fast-forward
+4e85827463ccd911e1d2abac810d97b1973f1066 4e85827463ccd911e1d2abac810d97b1973f1066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695336114 -0300	checkout: moving from feature/navbar to page/faq
+4e85827463ccd911e1d2abac810d97b1973f1066 f18938b9981d20cb3a4495f1a7b0d93033ac0d25 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695404932 -0300	commit: FAQ page add
+f18938b9981d20cb3a4495f1a7b0d93033ac0d25 171cd663c036893048e03549e8ea8ff4d7983066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695406341 -0300	checkout: moving from page/faq to developer
+171cd663c036893048e03549e8ea8ff4d7983066 4e85827463ccd911e1d2abac810d97b1973f1066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695406364 -0300	pull origin main: Fast-forward
+4e85827463ccd911e1d2abac810d97b1973f1066 ac1816322534769521c3d8b5603b9665168b8b4e Italo Fontenele <italo.fontenele.silva@gmail.com> 1695407256 -0300	checkout: moving from developer to feature/audio-player
+ac1816322534769521c3d8b5603b9665168b8b4e 8fcc8a6840800dbfa9f7a4f40468d053cc80503b Italo Fontenele <italo.fontenele.silva@gmail.com> 1695411190 -0300	commit: update song list and mock data.
+8fcc8a6840800dbfa9f7a4f40468d053cc80503b 5c15225c539992aa430db2f13a3e1f7ea79f8b7c Italo Fontenele <italo.fontenele.silva@gmail.com> 1695412008 -0300	commit: Update track info to show album year and name.
+5c15225c539992aa430db2f13a3e1f7ea79f8b7c 4e85827463ccd911e1d2abac810d97b1973f1066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695412105 -0300	checkout: moving from feature/audio-player to feature/navbar
+4e85827463ccd911e1d2abac810d97b1973f1066 d0d70768115092266886ec242135f364343d8b38 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695413337 -0300	commit: adjusts on navbar theme
+d0d70768115092266886ec242135f364343d8b38 60046803910f128c1ff708d909fdf23987069d2a Italo Fontenele <italo.fontenele.silva@gmail.com> 1695413396 -0300	checkout: moving from feature/navbar to page/player
+60046803910f128c1ff708d909fdf23987069d2a 4e85827463ccd911e1d2abac810d97b1973f1066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695413423 -0300	pull origin main: Fast-forward
+4e85827463ccd911e1d2abac810d97b1973f1066 5c15225c539992aa430db2f13a3e1f7ea79f8b7c Italo Fontenele <italo.fontenele.silva@gmail.com> 1695413496 -0300	checkout: moving from page/player to feature/audio-player
+5c15225c539992aa430db2f13a3e1f7ea79f8b7c 355fe0b4348584feaae0e84589a40b96fc06b7d5 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695413513 -0300	pull origin main: Merge made by the 'ort' strategy.
+355fe0b4348584feaae0e84589a40b96fc06b7d5 f33fc519cce4903ebf266e182fddb6ae4a269d6d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695414219 -0300	commit: update audio player themes
+f33fc519cce4903ebf266e182fddb6ae4a269d6d 4e85827463ccd911e1d2abac810d97b1973f1066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695416360 -0300	checkout: moving from feature/audio-player to developer
+4e85827463ccd911e1d2abac810d97b1973f1066 8782b725b758d037fc7c5bc291e56757da05b6cb Italo Fontenele <italo.fontenele.silva@gmail.com> 1695416413 -0300	pull origin main: Fast-forward
+8782b725b758d037fc7c5bc291e56757da05b6cb 4e85827463ccd911e1d2abac810d97b1973f1066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695416573 -0300	checkout: moving from developer to page/player
+4e85827463ccd911e1d2abac810d97b1973f1066 f33fc519cce4903ebf266e182fddb6ae4a269d6d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695416585 -0300	checkout: moving from page/player to feature/audio-player
+f33fc519cce4903ebf266e182fddb6ae4a269d6d 8782b725b758d037fc7c5bc291e56757da05b6cb Italo Fontenele <italo.fontenele.silva@gmail.com> 1695417728 -0300	pull origin main: Fast-forward
+8782b725b758d037fc7c5bc291e56757da05b6cb f18938b9981d20cb3a4495f1a7b0d93033ac0d25 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695419090 -0300	checkout: moving from feature/audio-player to page/faq
+f18938b9981d20cb3a4495f1a7b0d93033ac0d25 8782b725b758d037fc7c5bc291e56757da05b6cb Italo Fontenele <italo.fontenele.silva@gmail.com> 1695419184 -0300	pull origin main: Fast-forward
+8782b725b758d037fc7c5bc291e56757da05b6cb ea75005dfc14ca29422300bf85a63912e698d38d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695419881 -0300	commit: adjusts on FAQ page
+ea75005dfc14ca29422300bf85a63912e698d38d 0a3c8d4a0ae0245945f652bee5ae1626bc210b60 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695642832 -0300	commit: remoção de um console.log perdido
+0a3c8d4a0ae0245945f652bee5ae1626bc210b60 0a3c8d4a0ae0245945f652bee5ae1626bc210b60 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695643320 -0300	checkout: moving from page/faq to page/test
+0a3c8d4a0ae0245945f652bee5ae1626bc210b60 8782b725b758d037fc7c5bc291e56757da05b6cb Italo Fontenele <italo.fontenele.silva@gmail.com> 1695643336 -0300	checkout: moving from page/test to developer
+8782b725b758d037fc7c5bc291e56757da05b6cb a8365efa6d5be5224a22972ee9fe13542f758c5d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695643345 -0300	pull origin main: Fast-forward
+a8365efa6d5be5224a22972ee9fe13542f758c5d 0a3c8d4a0ae0245945f652bee5ae1626bc210b60 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695643447 -0300	checkout: moving from developer to page/test
+0a3c8d4a0ae0245945f652bee5ae1626bc210b60 a8365efa6d5be5224a22972ee9fe13542f758c5d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695643459 -0300	pull origin main: Fast-forward
+a8365efa6d5be5224a22972ee9fe13542f758c5d 84ab1015b22c31a52246c6c103358e31615fea89 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695647373 -0300	commit: test page with music cards
+84ab1015b22c31a52246c6c103358e31615fea89 a8365efa6d5be5224a22972ee9fe13542f758c5d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695647430 -0300	checkout: moving from page/test to developer
+a8365efa6d5be5224a22972ee9fe13542f758c5d ac43b4a2269785ecbe7d8e8a4c783362b127ed59 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695647496 -0300	pull origin main: Fast-forward
+ac43b4a2269785ecbe7d8e8a4c783362b127ed59 8782b725b758d037fc7c5bc291e56757da05b6cb Italo Fontenele <italo.fontenele.silva@gmail.com> 1695648510 -0300	checkout: moving from developer to feature/audio-player
+8782b725b758d037fc7c5bc291e56757da05b6cb ac43b4a2269785ecbe7d8e8a4c783362b127ed59 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695648526 -0300	pull origin main: Fast-forward
+ac43b4a2269785ecbe7d8e8a4c783362b127ed59 2c6c6d5038182321e4ae78f2d577126365c569f5 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695657731 -0300	commit: now player plage can receive a music Id as argument and generate a playlist with similar songs.
+2c6c6d5038182321e4ae78f2d577126365c569f5 6568e745804eba94003930294dfd44758a79e5e8 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695657783 -0300	commit: adjusts on FAQ page
+6568e745804eba94003930294dfd44758a79e5e8 ac43b4a2269785ecbe7d8e8a4c783362b127ed59 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695659001 -0300	checkout: moving from feature/audio-player to developer
+ac43b4a2269785ecbe7d8e8a4c783362b127ed59 6568e745804eba94003930294dfd44758a79e5e8 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695659020 -0300	checkout: moving from developer to feature/audio-player
+6568e745804eba94003930294dfd44758a79e5e8 4e0a97dcc00a1ebfb33773e4a9b414e44a584a09 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695663284 -0300	commit: bug fix on audio-player component that displayed wrong track info.
+4e0a97dcc00a1ebfb33773e4a9b414e44a584a09 ac43b4a2269785ecbe7d8e8a4c783362b127ed59 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695663367 -0300	checkout: moving from feature/audio-player to developer
+ac43b4a2269785ecbe7d8e8a4c783362b127ed59 81f3a773c53cc09648aa52c78119d5263a87d00d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695663380 -0300	pull origin main: Fast-forward
+81f3a773c53cc09648aa52c78119d5263a87d00d 81f3a773c53cc09648aa52c78119d5263a87d00d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695663835 -0300	checkout: moving from developer to bugfix/theme
+81f3a773c53cc09648aa52c78119d5263a87d00d e8fa20e5b18ee7965b32ec2072ee242b1b081a84 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695665406 -0300	commit: improvement on theme selection
+e8fa20e5b18ee7965b32ec2072ee242b1b081a84 b56c49d58cb17afdec7e2bfb50ad98aeb3c63c32 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695671360 -0300	commit: fix on player features and some tests added to test page
+b56c49d58cb17afdec7e2bfb50ad98aeb3c63c32 81f3a773c53cc09648aa52c78119d5263a87d00d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695672477 -0300	checkout: moving from bugfix/theme to developer
+81f3a773c53cc09648aa52c78119d5263a87d00d f8412013c1bb7e1b8181504324181728832aa738 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695672495 -0300	pull origin main: Fast-forward
+f8412013c1bb7e1b8181504324181728832aa738 109bccb6250229afb7b880f53302f5f40a0ecb4d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695736344 -0300	commit: some files renamed and playlists added
+109bccb6250229afb7b880f53302f5f40a0ecb4d 4e0a97dcc00a1ebfb33773e4a9b414e44a584a09 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695736489 -0300	checkout: moving from developer to feature/audio-player
+4e0a97dcc00a1ebfb33773e4a9b414e44a584a09 46d3745920af931e59008c569ea34c4305d4e642 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695736508 -0300	pull origin main: Fast-forward
+46d3745920af931e59008c569ea34c4305d4e642 c172ed676e709961fb3db3e88ab21f37b035493a Italo Fontenele <italo.fontenele.silva@gmail.com> 1695737519 -0300	commit: bugfix on test page view
+c172ed676e709961fb3db3e88ab21f37b035493a 0e83040e7c4e6c8311b5a522d9c70ea924e253d9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695746648 -0300	commit: some fix and corrections on player
+0e83040e7c4e6c8311b5a522d9c70ea924e253d9 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695746732 -0300	pull origin main: Fast-forward
+3e375b45b4002fba0e9294cee3931b8b62adb985 109bccb6250229afb7b880f53302f5f40a0ecb4d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695746737 -0300	checkout: moving from feature/audio-player to developer
+109bccb6250229afb7b880f53302f5f40a0ecb4d 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695746744 -0300	pull origin main: Fast-forward
+3e375b45b4002fba0e9294cee3931b8b62adb985 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695748102 -0300	checkout: moving from developer to feature/audio-player
+3e375b45b4002fba0e9294cee3931b8b62adb985 040fc8f7d84d9d6d2c9e150812b874ed3592b5ae Italo Fontenele <italo.fontenele.silva@gmail.com> 1695824737 -0300	commit: audio player is now an independent component
+040fc8f7d84d9d6d2c9e150812b874ed3592b5ae 67d0acc50e8a7275e23550108565e7f6ef057762 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695851078 -0300	commit: go horse
+67d0acc50e8a7275e23550108565e7f6ef057762 20877e502ed8ae7f13c76586dbf6ead6ec5a92a4 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695852715 -0300	commit: some fixes and componetizations
+20877e502ed8ae7f13c76586dbf6ead6ec5a92a4 d40e1de0553d2ecdcf461a0b190ec88f7c176d4d Italo Fontenele <italo.fontenele.silva@gmail.com> 1695932768 -0300	commit: tips adictions and audio player buttons reworked
+d40e1de0553d2ecdcf461a0b190ec88f7c176d4d 4076c764b972f0dc43fb789547d6aecd2d34eec8 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695932980 -0300	commit: distance between audio player buttons reduced
+4076c764b972f0dc43fb789547d6aecd2d34eec8 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695933216 -0300	checkout: moving from feature/audio-player to developer
+3e375b45b4002fba0e9294cee3931b8b62adb985 d0d70768115092266886ec242135f364343d8b38 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695933255 -0300	checkout: moving from developer to feature/navbar
+d0d70768115092266886ec242135f364343d8b38 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695933268 -0300	pull origin main: Fast-forward
+3e375b45b4002fba0e9294cee3931b8b62adb985 c7e52aaa27acb37b4c40fc867aa323ea409f316b Italo Fontenele <italo.fontenele.silva@gmail.com> 1695933692 -0300	commit: changed theme button
+c7e52aaa27acb37b4c40fc867aa323ea409f316b 4076c764b972f0dc43fb789547d6aecd2d34eec8 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695933723 -0300	checkout: moving from feature/navbar to feature/audio-player
+4076c764b972f0dc43fb789547d6aecd2d34eec8 5269e164066ddf6a0c7ccd4738675ef43d421af3 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695946483 -0300	commit: audio player button control toggle added
+5269e164066ddf6a0c7ccd4738675ef43d421af3 171cd663c036893048e03549e8ea8ff4d7983066 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695946518 -0300	checkout: moving from feature/audio-player to page/sign-up
+171cd663c036893048e03549e8ea8ff4d7983066 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695946532 -0300	pull origin main: Fast-forward
+3e375b45b4002fba0e9294cee3931b8b62adb985 5269e164066ddf6a0c7ccd4738675ef43d421af3 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695951316 -0300	checkout: moving from page/sign-up to feature/audio-player
+5269e164066ddf6a0c7ccd4738675ef43d421af3 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1695988481 -0300	checkout: moving from feature/audio-player to page/sign-up
+3e375b45b4002fba0e9294cee3931b8b62adb985 b5dfa8a4612297e25cc4747c0012c3c4dad1e313 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696006691 -0300	commit: sign_up page added
+b5dfa8a4612297e25cc4747c0012c3c4dad1e313 5024078416c0a93af7ac148662c0733fb750914d Italo Fontenele <italo.fontenele.silva@gmail.com> 1696006959 -0300	pull origin main: Merge made by the 'ort' strategy.
+5024078416c0a93af7ac148662c0733fb750914d 5b307f7e525b48003e5324d900906168632fdf7f Italo Fontenele <italo.fontenele.silva@gmail.com> 1696010369 -0300	commit: sign_in and sign_up pages add
+5b307f7e525b48003e5324d900906168632fdf7f 3e375b45b4002fba0e9294cee3931b8b62adb985 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696012790 -0300	checkout: moving from page/sign-up to developer
+3e375b45b4002fba0e9294cee3931b8b62adb985 58a00ec7337fa989dfc10ac812fa141721815549 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696012801 -0300	pull origin main: Fast-forward
+58a00ec7337fa989dfc10ac812fa141721815549 1b7c6014be23b10bfa19ec80e31c71052506437e Italo Fontenele <italo.fontenele.silva@gmail.com> 1696012876 -0300	pull: Merge made by the 'ort' strategy.
+1b7c6014be23b10bfa19ec80e31c71052506437e 5269e164066ddf6a0c7ccd4738675ef43d421af3 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696014941 -0300	checkout: moving from developer to feature/audio-player
+5269e164066ddf6a0c7ccd4738675ef43d421af3 58a00ec7337fa989dfc10ac812fa141721815549 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696014958 -0300	pull origin main: Fast-forward
+58a00ec7337fa989dfc10ac812fa141721815549 1b7c6014be23b10bfa19ec80e31c71052506437e Italo Fontenele <italo.fontenele.silva@gmail.com> 1696248828 -0300	checkout: moving from feature/audio-player to developer
+1b7c6014be23b10bfa19ec80e31c71052506437e ccc77bab82a291fb26e6dacc45c0ec98f122f3f9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696248940 -0300	commit: sign_in and sign_up pages add update
+ccc77bab82a291fb26e6dacc45c0ec98f122f3f9 d089983c788cd5523edf1e2f1da2896e3971b029 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696248951 -0300	checkout: moving from developer to components/cardmusic
+d089983c788cd5523edf1e2f1da2896e3971b029 ccc77bab82a291fb26e6dacc45c0ec98f122f3f9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696249177 -0300	checkout: moving from components/cardmusic to developer
+ccc77bab82a291fb26e6dacc45c0ec98f122f3f9 d089983c788cd5523edf1e2f1da2896e3971b029 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696249285 -0300	checkout: moving from developer to components/cardmusic
+d089983c788cd5523edf1e2f1da2896e3971b029 6ad079abfb05b21bab2fdc63a775ffcd0d44c72f Italo Fontenele <italo.fontenele.silva@gmail.com> 1696249393 -0300	commit: tracks.json fix
+6ad079abfb05b21bab2fdc63a775ffcd0d44c72f ccc77bab82a291fb26e6dacc45c0ec98f122f3f9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696249500 -0300	checkout: moving from components/cardmusic to developer
+ccc77bab82a291fb26e6dacc45c0ec98f122f3f9 abf84f5a6198324142817366001968cb5ae5ff29 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696249514 -0300	pull origin main: Fast-forward
+abf84f5a6198324142817366001968cb5ae5ff29 e1c1913f2381a6a57fd487fe7afda8cbdafa8313 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696256811 -0300	checkout: moving from developer to page/home
+e1c1913f2381a6a57fd487fe7afda8cbdafa8313 abf84f5a6198324142817366001968cb5ae5ff29 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696256851 -0300	pull origin main: Fast-forward
+abf84f5a6198324142817366001968cb5ae5ff29 f770c8026f8d42e7189bed1704f230e7f098a752 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696276430 -0300	commit: home page reconstructed
+f770c8026f8d42e7189bed1704f230e7f098a752 14909dea64d6266704dd60d2fe1be3da7da09bda Italo Fontenele <italo.fontenele.silva@gmail.com> 1696278640 -0300	commit: some fix
+14909dea64d6266704dd60d2fe1be3da7da09bda abf84f5a6198324142817366001968cb5ae5ff29 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696278699 -0300	checkout: moving from page/home to developer
+abf84f5a6198324142817366001968cb5ae5ff29 14b82364b8b4c0bf9345ab07176d350eb78533e2 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696278708 -0300	pull origin main: Fast-forward
+14b82364b8b4c0bf9345ab07176d350eb78533e2 c7e52aaa27acb37b4c40fc867aa323ea409f316b Italo Fontenele <italo.fontenele.silva@gmail.com> 1696280827 -0300	checkout: moving from developer to feature/navbar
+c7e52aaa27acb37b4c40fc867aa323ea409f316b 14b82364b8b4c0bf9345ab07176d350eb78533e2 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696280839 -0300	pull origin main: Fast-forward
+14b82364b8b4c0bf9345ab07176d350eb78533e2 50c8068967f662f26c3c766e805d10e019ce3679 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696281916 -0300	commit: color corrections on navbar and audioplayer
+50c8068967f662f26c3c766e805d10e019ce3679 7b4ecfe0d43fa8b681c731a08a4beacc209e2971 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696380264 -0300	commit: navbar visual change
+7b4ecfe0d43fa8b681c731a08a4beacc209e2971 58a00ec7337fa989dfc10ac812fa141721815549 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696380277 -0300	checkout: moving from feature/navbar to feature/audio-player
+58a00ec7337fa989dfc10ac812fa141721815549 eb6b1a78f87b8b942e429b24f592845d7e183e46 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696380419 -0300	pull origin main: Fast-forward
+eb6b1a78f87b8b942e429b24f592845d7e183e46 ab4580448d154ec2d00d4fc186aab2c0553f9288 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696380696 -0300	commit: music add
+ab4580448d154ec2d00d4fc186aab2c0553f9288 5b307f7e525b48003e5324d900906168632fdf7f Italo Fontenele <italo.fontenele.silva@gmail.com> 1696380779 -0300	checkout: moving from feature/audio-player to page/sign-up
+5b307f7e525b48003e5324d900906168632fdf7f eb6b1a78f87b8b942e429b24f592845d7e183e46 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696380789 -0300	pull origin main: Fast-forward
+eb6b1a78f87b8b942e429b24f592845d7e183e46 eb6b1a78f87b8b942e429b24f592845d7e183e46 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696431120 -0300	reset: moving to HEAD
+eb6b1a78f87b8b942e429b24f592845d7e183e46 219f25f77f07c0eec25b2022ee5535a5344cfbe9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696431125 -0300	checkout: moving from page/sign-up to mock-data
+219f25f77f07c0eec25b2022ee5535a5344cfbe9 fc499efd294d097eb7bf1bd788691fca661759dd Italo Fontenele <italo.fontenele.silva@gmail.com> 1696431375 -0300	commit: add musics
+fc499efd294d097eb7bf1bd788691fca661759dd 638dee048fd1e2f96b645ec9fd6ec5e2aef676a1 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696431542 -0300	commit (merge): go horse
+638dee048fd1e2f96b645ec9fd6ec5e2aef676a1 d17a5c71229f76d7ba16d13ed792c4915dcb8e87 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696454175 -0300	commit: update mock data
+d17a5c71229f76d7ba16d13ed792c4915dcb8e87 14b82364b8b4c0bf9345ab07176d350eb78533e2 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696550977 -0300	checkout: moving from mock-data to developer
+14b82364b8b4c0bf9345ab07176d350eb78533e2 07d98714069076f6cecf6d94dae7333a01d3a1d0 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696551011 -0300	pull origin main: Fast-forward
+07d98714069076f6cecf6d94dae7333a01d3a1d0 eb6b1a78f87b8b942e429b24f592845d7e183e46 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696551680 -0300	checkout: moving from developer to page/sign-up
+eb6b1a78f87b8b942e429b24f592845d7e183e46 07d98714069076f6cecf6d94dae7333a01d3a1d0 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696551695 -0300	pull origin main: Fast-forward
+07d98714069076f6cecf6d94dae7333a01d3a1d0 07d98714069076f6cecf6d94dae7333a01d3a1d0 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696892973 -0300	checkout: moving from page/sign-up to developer
+07d98714069076f6cecf6d94dae7333a01d3a1d0 07d98714069076f6cecf6d94dae7333a01d3a1d0 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893040 -0300	checkout: moving from developer to page/sign-up
+07d98714069076f6cecf6d94dae7333a01d3a1d0 07d98714069076f6cecf6d94dae7333a01d3a1d0 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893068 -0300	checkout: moving from page/sign-up to developer
+07d98714069076f6cecf6d94dae7333a01d3a1d0 3de9f6403d1a1d459c7cc50e0cae6a4008aeab69 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893114 -0300	commit: Formulário SingUp
+3de9f6403d1a1d459c7cc50e0cae6a4008aeab69 0a3c8d4a0ae0245945f652bee5ae1626bc210b60 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893155 -0300	checkout: moving from developer to page/faq
+0a3c8d4a0ae0245945f652bee5ae1626bc210b60 07d98714069076f6cecf6d94dae7333a01d3a1d0 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893210 -0300	pull origin main: Fast-forward
+07d98714069076f6cecf6d94dae7333a01d3a1d0 3de9f6403d1a1d459c7cc50e0cae6a4008aeab69 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893562 -0300	checkout: moving from page/faq to developer
+3de9f6403d1a1d459c7cc50e0cae6a4008aeab69 07d98714069076f6cecf6d94dae7333a01d3a1d0 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893654 -0300	checkout: moving from developer to page/sign-up
+07d98714069076f6cecf6d94dae7333a01d3a1d0 eb18c43fa4ea362c703604378b19530ec0825c79 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893763 -0300	commit: Go horse
+eb18c43fa4ea362c703604378b19530ec0825c79 3de9f6403d1a1d459c7cc50e0cae6a4008aeab69 Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893895 -0300	checkout: moving from page/sign-up to developer
+3de9f6403d1a1d459c7cc50e0cae6a4008aeab69 6103dcad7654288bbca812b345f39f658b74d0fb Italo Fontenele <italo.fontenele.silva@gmail.com> 1696893919 -0300	pull origin main: Merge made by the 'ort' strategy.
+6103dcad7654288bbca812b345f39f658b74d0fb 07d98714069076f6cecf6d94dae7333a01d3a1d0 Italo Fontenele <italo.fontenele.silva@gmail.com> 1697582141 -0300	checkout: moving from developer to page/faq
+07d98714069076f6cecf6d94dae7333a01d3a1d0 eb18c43fa4ea362c703604378b19530ec0825c79 Italo Fontenele <italo.fontenele.silva@gmail.com> 1697582151 -0300	checkout: moving from page/faq to page/sign-up
+eb18c43fa4ea362c703604378b19530ec0825c79 56e6447ec3fa66db741ca89ce0536c408dd8cfb9 Italo Fontenele <italo.fontenele.silva@gmail.com> 1698783420 -0300	commit: apresentação 31/10
+56e6447ec3fa66db741ca89ce0536c408dd8cfb9 88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 Italo Fontenele <italo.fontenele.silva@gmail.com> 1698861630 -0300	commit: correções
+88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 6103dcad7654288bbca812b345f39f658b74d0fb Italo Fontenele <italo.fontenele.silva@gmail.com> 1699358904 -0300	checkout: moving from page/sign-up to developer
+6103dcad7654288bbca812b345f39f658b74d0fb e6582aceee1499b0fb104ac40f987791fca8a389 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699359423 -0300	commit (merge): Merge branch 'main' of https://github.com/unifor-ads/spotifail into developer
+e6582aceee1499b0fb104ac40f987791fca8a389 88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699359427 -0300	checkout: moving from developer to page/sign-up
+88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699359454 -0300	checkout: moving from page/sign-up to page/user
+88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 c673628da7a5a51aafcc1d5cb11a39d725ccdf93 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699359465 -0300	pull origin main: Merge made by the 'ort' strategy.
+c673628da7a5a51aafcc1d5cb11a39d725ccdf93 88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699359494 -0300	checkout: moving from page/user to page/sign-up
+88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 c673628da7a5a51aafcc1d5cb11a39d725ccdf93 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699359532 -0300	checkout: moving from page/sign-up to page/user
+c673628da7a5a51aafcc1d5cb11a39d725ccdf93 b6db5eb1eca4af13f179f0c85d76121377a3b3c4 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699547132 -0300	commit: 09/10/2023
+b6db5eb1eca4af13f179f0c85d76121377a3b3c4 88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699547144 -0300	checkout: moving from page/user to page/sign-up
+88a8a9222d31dd9d5f9cfe1e1cc81605ee259f08 b6db5eb1eca4af13f179f0c85d76121377a3b3c4 Italo Fontenele <italo.fontenele.silva@gmail.com> 1699569224 -0300	checkout: moving from page/sign-up to page/user
+b6db5eb1eca4af13f179f0c85d76121377a3b3c4 629715e4b13545f36542c7bf7a7220ef5ae2a983 Italo Fontenele <italo.fontenele.silva@gmail.com> 1700173515 -0300	commit: 16/11/2023
+629715e4b13545f36542c7bf7a7220ef5ae2a983 9aebdd68d003a0e76c9eb0b5c5af2567b8ac8d94 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701193435 -0300	commit: 28/11/2023
+9aebdd68d003a0e76c9eb0b5c5af2567b8ac8d94 a6cbc30e123b0b90f522513d81ffe5373f78bc04 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701371020 -0300	commit: 30/11/2023
+a6cbc30e123b0b90f522513d81ffe5373f78bc04 ccf1b3175933ef151e5139d3afea02f4140b990d Italo Fontenele <italo.fontenele.silva@gmail.com> 1701450859 -0300	commit: 01/12/2023
+ccf1b3175933ef151e5139d3afea02f4140b990d 6f5e9c1d68b4fdd4da2b2f697e82ad25c648f679 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701730195 -0300	commit: go horse
+6f5e9c1d68b4fdd4da2b2f697e82ad25c648f679 14909dea64d6266704dd60d2fe1be3da7da09bda Italo Fontenele <italo.fontenele.silva@gmail.com> 1701801150 -0300	checkout: moving from page/user to page/home
+14909dea64d6266704dd60d2fe1be3da7da09bda 05d2cbe2ad08360883646137e522799393688ed2 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701801171 -0300	pull origin main: Fast-forward
+05d2cbe2ad08360883646137e522799393688ed2 0c0c01c737649d8cb9394bd0a54edc612fe85953 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701805057 -0300	commit: responsividade na pagina home
+0c0c01c737649d8cb9394bd0a54edc612fe85953 66fb5b52e0cde137c16839d99d2b75f19498bbf3 Italo Fontenele <italo.fontenele.silva@gmail.com> 1701862914 -0300	commit: go horse

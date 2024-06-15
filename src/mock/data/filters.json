@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Rock",
+    "description": "Ah, o bom e velho rock, ainda preso nos anos 70.",
+    "thumbnail": "/images/genres/rock.jpg",
+    "searchParameters": {
+      "genre": "rock"
+    }
+  },
+  {
+    "title": "Country",
+    "description": "Yeehaw, histórias sobre tratores, cachorros e corações partidos.",
+    "thumbnail": "/images/genres/country.jpg",
+    "searchParameters": {
+      "genre": "country"
+    }
+  },
+  {
+    "title": "MPB",
+    "description": "Música Para Bebericar.",
+    "thumbnail": "/images/genres/mpb.jpg",
+    "searchParameters": {
+      "genre": "MPB"
+    }
+  },
+  {
+    "title": "POP",
+    "description": "Músicas que você ama e odeia ao mesmo tempo.",
+    "thumbnail": "/images/genres/pop.jpg",
+    "searchParameters": {
+      "genre": "pop"
+    }
+  },
+  {
+    "title": "Anos 90",
+    "description": "Quando a moda era questionável e a música também.",
+    "thumbnail": "/images/genres/90s.jpg",
+    "searchParameters": {
+      "initialYear": "1991",
+      "endingYear": "2000"
+    }
+  },
+  {
+    "title": "Anos 80",
+    "description": "Cabelos volumosos, roupas bregas, e músicas inesquecíveis, baby!",
+    "thumbnail": "/images/genres/80s.jpg",
+    "searchParameters": {
+      "initialYear": "1981",
+      "endingYear": "1990"
+    }
+  },
+  {
+    "title": "Anos 70",
+    "description": "Quando as calças eram largas, os cabelos eram longos",
+    "thumbnail": "/images/genres/70s.jpg",
+    "searchParameters": {
+      "initialYear": "1971",
+      "endingYear": "1980"
+    }
+  },
+  {
+    "title": "Anos 60",
+    "description": "A era dos hippies, da psicodelia e do flower power.",
+    "thumbnail": "/images/genres/60s.jpg",
+    "searchParameters": {
+      "initialYear": "1961",
+      "endingYear": "1970"
+    }
+  },
+  {
+    "title": "Anos 50",
+    "description": "Quando todos dançavam ao som de músicas sobre carros e milkshakes",
+    "thumbnail": "/images/genres/50s.jpg",
+    "searchParameters": {
+      "initialYear": "1951",
+      "endingYear": "1960"
+    }
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "title": "White Wedding",
+    "artist": "Billy Idol",
+    "album": "Billy Idol",
+    "year": 1982,
+    "genre": ["Pop", "Rock"],
+    "thumbnail": "/images/covers/001.jpg",
+    "src": "/audios/001.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Smokin'",
+    "artist": "Boston",
+    "album": "Boston",
+    "year": 1976,
+    "genre": ["Rock", "Hard Rock"],
+    "thumbnail": "/images/covers/002.jpg",
+    "src": "/audios/002.mp3"
+  },
+  {
+    "id": 3,
+    "title": "You Make My Dreams",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Voices",
+    "year": 1980,
+    "genre": ["Pop", "Rock", "Soft Rock"],
+    "thumbnail": "/images/covers/003.jpg",
+    "src": "/audios/003.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Two Tickets to Paradise",
+    "artist": "Eddie Money",
+    "album": "Two Tickets to Paradise",
+    "year": 1978,
+    "genre": ["Pop", "Rock"],
+    "thumbnail": "/images/covers/004.jpg",
+    "src": "/audios/004.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Some Kind of Wonderful",
+    "artist": "Grand Funk Railroad",
+    "album": "Some Kind of Wonderful",
+    "year": 1974,
+    "genre": ["Rock", "Hard Rock"],
+    "thumbnail": "/images/covers/005.jpg",
+    "src": "/audios/005.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Woman to Woman",
+    "artist": "Joe Cocker",
+    "album": "You Can Leave Your Hat On",
+    "year": 1982,
+    "genre": ["Rock", "Soul"],
+    "thumbnail": "/images/covers/006.jpg",
+    "src": "/audios/006.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Get Down to It",
+    "artist": "Humble Pie",
+    "album": "Performance: Rockin' the Fillmore",
+    "year": 1971,
+    "genre": ["Rock", "Blues Rock"],
+    "thumbnail": "/images/covers/007.jpg",
+    "src": "/audios/007.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Strutter",
+    "artist": "KISS",
+    "album": "Kiss",
+    "year": 1974,
+    "genre": ["Rock", "Hard Rock"],
+    "thumbnail": "/images/covers/008.jpg",
+    "src": "/audios/008.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Young Turks",
+    "artist": "Rod Stewart",
+    "album": "Atlantic Crossing",
+    "year": 1975,
+    "genre": ["Rock", "Pop"],
+    "thumbnail": "/images/covers/009.jpg",
+    "src": "/audios/009.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Runnin' Down a Dream",
+    "artist": "Tom Petty and the Heartbreakers",
+    "album": "Tom Petty and the Heartbreakers",
+    "year": 1976,
+    "genre": ["Rock"],
+    "thumbnail": "/images/covers/010.jpg",
+    "src": "/audios/010.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Hold the Line",
+    "artist": "Toto",
+    "album": "Toto IV",
+    "year": 1982,
+    "genre": ["Rock", "Soft Rock"],
+    "thumbnail": "/images/covers/011.jpg",
+    "src": "/audios/011.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Moonage Daydream",
+    "artist": "David Bowie",
+    "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "year": 1972,
+    "genre": ["Rock", "Glam Rock"],
+    "thumbnail": "/images/covers/012.jpg",
+    "src": "/audios/012.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Fooled Around and Fell in Love",
+    "artist": "Elvin Bishop",
+    "album": "Struttin' My Stuff",
+    "year": 1975,
+    "genre": ["Rock", "Blues Rock"],
+    "thumbnail": "/images/covers/013.jpg",
+    "src": "/audios/013.mp3"
+  },
+  {
+    "id": 14,
+    "title": "I Want You Back",
+    "artist": "The Jackson 5",
+    "album": "Diana Ross Presents The Jackson 5",
+    "year": 1969,
+    "genre": ["Pop", "Soul"],
+    "thumbnail": "/images/covers/014.jpg",
+    "src": "/audios/014.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Ain't No Mountain High Enough",
+    "artist": "Marvin Gaye & Tammi Terrell",
+    "album": "United",
+    "year": 1967,
+    "genre": ["Soul", "Motown"],
+    "thumbnail": "/images/covers/015.jpg",
+    "src": "/audios/015.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Spirit in the Sky",
+    "artist": "Norman Greenbaum",
+    "album": "Spirit in the Sky",
+    "year": 1969,
+    "genre": ["Rock"],
+    "thumbnail": "/images/covers/016.jpg",
+    "src": "/audios/016.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Go All the Way",
+    "artist": "Raspberries",
+    "album": "Side 3",
+    "year": 1972,
+    "genre": ["Pop", "Rock"],
+    "thumbnail": "/images/covers/017.jpg",
+    "src": "/audios/017.mp3"
+  },
+  {
+    "id": 18,
+    "title": "Escape (The Piña Colada Song)",
+    "artist": "Rupert Holmes",
+    "album": "Partners in Crime",
+    "year": 1979,
+    "genre": ["Pop", "Rock", "Soft Rock"],
+    "thumbnail": "/images/covers/018.jpg",
+    "src": "/audios/018.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Cherry Bomb",
+    "artist": "The Runaways",
+    "album": "The Runaways",
+    "year": 1976,
+    "genre": ["Rock", "Punk Rock"],
+    "thumbnail": "/images/covers/019.jpg",
+    "src": "/audios/019.mp3"
+  },
+  {
+    "id": 20,
+    "title": "I'm Not in Love",
+    "artist": "10cc",
+    "album": "How Dare You!",
+    "year": 1975,
+    "genre": ["Pop", "Rock", "Soft Rock"],
+    "thumbnail": "/images/covers/020.jpg",
+    "src": "/audios/020.mp3"
+  },
+  {
+    "id": 21,
+    "title": "Hooked on a Feeling",
+    "artist": "Blue Swede",
+    "album": "Hooked on a Feeling",
+    "year": 1974,
+    "genre": ["Pop", "Rock"],
+    "thumbnail": "/images/covers/021.jpg",
+    "src": "/audios/021.mp3"
+  },
+  {
+    "id": 22,
+    "title": "Amos Moses",
+    "artist": "Jerry Reed",
+    "album": "Georgia Sunshine",
+    "year": 1970,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/022.jpg",
+    "src": "/audios/022.mp3"
+  },
+  {
+    "id": 23,
+    "title": "Louisiana Woman, Mississippi Man",
+    "artist": "Conway Twitty and Loretta Lynn",
+    "album": "Louisiana Woman, Mississippi Man",
+    "year": 1973,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/023.jpg",
+    "src": "/audios/023.mp3"
+  },
+  {
+    "id": 24,
+    "title": "Hey Good Lookin'",
+    "artist": "Hank Williams",
+    "album": "40 Greatest Hits",
+    "year": 1951,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/024.jpg",
+    "src": "/audios/024.mp3"
+  },
+  {
+    "id": 25,
+    "title": "Queen of Hearts",
+    "artist": "Juice Newton",
+    "album": "Juice",
+    "year": 1981,
+    "genre": ["Country", "Pop"],
+    "thumbnail": "/images/covers/025.jpg",
+    "src": "/audios/025.mp3"
+  },
+  {
+    "id": 26,
+    "title": "New York City",
+    "artist": "Statler Brothers",
+    "album": "New York City",
+    "year": 1970,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/026.jpg",
+    "src": "/audios/026.mp3"
+  },
+  {
+    "id": 27,
+    "title": "The Letter That Johnny Walker Read",
+    "artist": "Asleep At The Wheel",
+    "album": "Wheelin' and Dealin'",
+    "year": 1975,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/027.jpg",
+    "src": "/audios/027.mp3"
+  },
+  {
+    "id": 28,
+    "title": "One Step Forward",
+    "artist": "The Desert Rose Band",
+    "album": "The Desert Rose Band",
+    "year": 1987,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/028.jpg",
+    "src": "/audios/028.mp3"
+  },
+  {
+    "id": 29,
+    "title": "Crazy",
+    "artist": "Willie Nelson",
+    "album": "And Then I Wrote",
+    "year": 1962,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/029.jpg",
+    "src": "/audios/029.mp3"
+  },
+  {
+    "id": 30,
+    "title": "Three Cigarettes in an Ashtray",
+    "artist": "Patsy Cline",
+    "album": "Patsy Cline Sings",
+    "year": 1957,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/030.jpg",
+    "src": "/audios/030.mp3"
+  },
+  {
+    "id": 31,
+    "title": "Bed of Rose's",
+    "artist": "Statler Brothers",
+    "album": "Bed of Rose's",
+    "year": 1970,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/031.jpg",
+    "src": "/audios/031.mp3"
+  },
+  {
+    "id": 32,
+    "title": "Make the World Go Away",
+    "artist": "Mickey Gilley",
+    "album": "Make the World Go Away",
+    "year": 1999,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/032.jpg",
+    "src": "/audios/032.mp3"
+  },
+  {
+    "id": 33,
+    "title": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+    "artist": "Ed Bruce",
+    "album": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+    "year": 1975,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/033.jpg",
+    "src": "/audios/033.mp3"
+  },
+  {
+    "id": 34,
+    "title": "Always Wanting You",
+    "artist": "Merle Haggard",
+    "album": "Always Wanting You",
+    "year": 1975,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/034.jpg",
+    "src": "/audios/034.mp3"
+  },
+  {
+    "id": 35,
+    "title": "All My Ex's Live in Texas",
+    "artist": "Whitey Shafer",
+    "album": "All My Ex's Live in Texas",
+    "year": 1987,
+    "genre": ["Country"],
+    "thumbnail": "/images/covers/035.jpg",
+    "src": "/audios/035.mp3"
+  },
+  {
+    "id": 36,
+    "title": "I Love a Rainy Night",
+    "artist": "Eddie Rabbitt",
+    "album": "Horizon",
+    "year": 1980,
+    "genre": ["Country", "Pop"],
+    "thumbnail": "/images/covers/036.jpg",
+    "src": "/audios/036.mp3"
+  },
+  {
+    "id": 37,
+    "title": "Can You Hear Me Now",
+    "artist": "The Score",
+    "album": "Atlas",
+    "year": 2015,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/037.jpg",
+    "src": "/audios/037.mp3"
+  },
+  {
+    "id": 38,
+    "title": "The Champion",
+    "artist": "The Score",
+    "album": "Atlas",
+    "year": 2015,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/038.jpg",
+    "src": "/audios/038.mp3"
+  },
+  {
+    "id": 39,
+    "title": "Time Of Dying",
+    "artist": "Three Days Grace",
+    "album": "One-X",
+    "year": 2006,
+    "genre": ["Alternative rock", "Hard rock"],
+    "thumbnail": "/images/covers/039.jpg",
+    "src": "/audios/039.mp3"
+  },
+  {
+    "id": 40,
+    "title": "Falei de Você pra Minha Mãe",
+    "artist": "Elana Dara",
+    "album": "Solteirona",
+    "year": 2022,
+    "genre": ["Pop", "MPB"],
+    "thumbnail": "/images/covers/040.jpg",
+    "src": "/audios/040.mp3"
+  },
+  {
+    "id": 41,
+    "title": "Sick of It",
+    "artist": "Skillet",
+    "album": "Victorious",
+    "year": 2013,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/041.jpg",
+    "src": "/audios/041.mp3"
+  },
+  {
+    "id": 42,
+    "title": "What I've Done",
+    "artist": "Linkin Park",
+    "album": "Minutes to Midnight",
+    "year": 2007,
+    "genre": ["Alternative rock", "Nu metal"],
+    "thumbnail": "/images/covers/042.jpg",
+    "src": "/audios/042.mp3"
+  },
+  {
+    "id": 43,
+    "title": "On My Own",
+    "artist": "BLANK",
+    "album": "BLANK",
+    "year": 2023,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/043.jpg",
+    "src": "/audios/043.mp3"
+  },
+  {
+    "id": 44,
+    "title": "Castle of Glass",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "year": 2003,
+    "genre": ["Alternative rock", "Nu metal"],
+    "thumbnail": "/images/covers/044.jpg",
+    "src": "/audios/044.mp3"
+  },
+  {
+    "id": 45,
+    "title": "I'm So Sorry",
+    "artist": "Imagine Dragons",
+    "album": "Evolve",
+    "year": 2017,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/045.jpg",
+    "src": "/audios/045.mp3"
+  },
+  {
+    "id": 46,
+    "title": "The Resistance",
+    "artist": "Skillet",
+    "album": "Unleashed",
+    "year": 2016,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/046.jpg",
+    "src": "/audios/046.mp3"
+  },
+  {
+    "id": 47,
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "album": "Evolve",
+    "year": 2017,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/047.jpg",
+    "src": "/audios/047.mp3"
+  },
+  {
+    "id": 48,
+    "title": "Fight Back",
+    "artist": "NEFFEX",
+    "album": "Fight Back",
+    "year": 2019,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/048.jpg",
+    "src": "/audios/048.mp3"
+  },
+  {
+    "id": 49,
+    "title": "Natural",
+    "artist": "Imagine Dragons",
+    "album": "Origins",
+    "year": 2018,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/049.jpg",
+    "src": "/audios/049.mp3"
+  },
+  {
+    "id": 50,
+    "title": "Courtesy Call",
+    "artist": "Thousand Foot Krutch",
+    "album": "Phenomenon",
+    "year": 2003,
+    "genre": ["Alternative rock", "Hard rock"],
+    "thumbnail": "/images/covers/050.jpg",
+    "src": "/audios/050.mp3"
+  },
+  {
+    "id": 51,
+    "title": "The Pretender",
+    "artist": "Foo Fighters",
+    "album": "Echoes, Silence, Patience & Grace",
+    "year": 2007,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/051.jpg",
+    "src": "/audios/051.mp3"
+  },
+  {
+    "id": 52,
+    "title": "Te Vi Na Rua Ontem",
+    "artist": "Konai (cover) Mel Carraro",
+    "album": "Covers Vol. 1",
+    "year": 2023,
+    "genre": ["Pop"],
+    "thumbnail": "/images/covers/052.jpg",
+    "src": "/audios/052.mp3"
+  },
+  {
+    "id": 53,
+    "title": "Till I Collapse",
+    "artist": "Eminem",
+    "album": "The Eminem Show",
+    "year": 2002,
+    "genre": ["Hip hop", "Rap"],
+    "thumbnail": "/images/covers/053.jpg",
+    "src": "/audios/053.mp3"
+  },
+  {
+    "id": 54,
+    "title": "Sorry, Blame It On Me",
+    "artist": "Akon",
+    "album": "Konvicted",
+    "year": 2006,
+    "genre": ["R&B", "Pop"],
+    "thumbnail": "/images/covers/054.jpg",
+    "src": "/audios/054.mp3"
+  },
+  {
+    "id": 55,
+    "title": "The Only Exception",
+    "artist": "Paramore",
+    "album": "Brand New Eyes",
+    "year": 2009,
+    "genre": ["Rock", "Pop rock", "Alternative rock"],
+    "thumbnail": "/images/covers/055.jpg",
+    "src": "/audios/055.mp3"
+  },
+  {
+    "id": 56,
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "year": 2020,
+    "genre": ["Pop", "Dance-pop"],
+    "thumbnail": "/images/covers/056.jpg",
+    "src": "/audios/056.mp3"
+  },
+  {
+    "id": 57,
+    "title": "Believer (Lyrics)",
+    "artist": "Imagine Dragons",
+    "album": "Evolve",
+    "year": 2017,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/057.jpg",
+    "src": "/audios/057.mp3"
+  },
+  {
+    "id": 58,
+    "title": "Wild (Lyrics)",
+    "artist": "Raylee",
+    "album": "Wild",
+    "year": 2023,
+    "genre": ["Pop"],
+    "thumbnail": "/images/covers/058.jpg",
+    "src": "/audios/058.mp3"
+  },
+  {
+    "id": 59,
+    "title": "Meu Novo Mundo (Letra_Legendado)",
+    "artist": "Charlie Brown Jr.",
+    "album": "Nadando Contra a Corrente",
+    "year": 2004,
+    "genre": ["Rock", "Pop rock"],
+    "thumbnail": "/images/covers/059.jpg",
+    "src": "/audios/059.mp3"
+  },
+  {
+    "id": 60,
+    "title": "01 Papercut - Linkin Park (Hybrid Theory)",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "year": 2000,
+    "genre": ["Rock", "Alternative rock", "Nu metal"],
+    "thumbnail": "/images/covers/060.jpg",
+    "src": "/audios/060.mp3"
+  },
+  {
+    "id": 61,
+    "title": "I Believe In A Thing Called Love (Official Music Video)",
+    "artist": "The Darkness",
+    "album": "Permission to Land",
+    "year": 2003,
+    "genre": ["Rock", "Glam rock", "Hard rock"],
+    "thumbnail": "/images/covers/061.jpg",
+    "src": "/audios/061.mp3"
+  },
+  {
+    "id": 62,
+    "title": "That’s What I Like",
+    "artist": "Bruno Mars",
+    "album": "24K Magic",
+    "year": 2016,
+    "genre": ["Pop", "R&B"],
+    "thumbnail": "/images/covers/062.jpg",
+    "src": "/audios/062.mp3"
+  },
+  {
+    "id": 63,
+    "title": "Like a Stone (Official Video)",
+    "artist": "Audioslave",
+    "album": "Audioslave",
+    "year": 2002,
+    "genre": ["Rock", "Hard rock", "Alternative rock"],
+    "thumbnail": "/images/covers/063.jpg",
+    "src": "/audios/063.mp3"
+  },
+  {
+    "id": 64,
+    "title": "The Sky Is A Neighborhood (Official Music Video)",
+    "artist": "Foo Fighters",
+    "album": "Sonic Highways",
+    "year": 2014,
+    "genre": ["Rock", "Alternative rock"],
+    "thumbnail": "/images/covers/064.jpg",
+    "src": "/audios/064.mp3"
+  }
+]
